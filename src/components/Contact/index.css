@@ -1,0 +1,9 @@
+.center-contact {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 82vh;
+  background-color: #fff5f5;
+  border-radius: 10px;
+}

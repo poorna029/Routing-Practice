@@ -1,0 +1,8 @@
+.centerN {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 82vh;
+  border-radius: 10px;
+}
